@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:28a74f6d6360fb11995a85441932737b$ -->
+<TextureAtlas imagePath="montest.png">
+    <SubTexture name="1" x="404" y="188" width="91" height="91"/>
+    <SubTexture name="2" x="218" y="195" width="91" height="91"/>
+    <SubTexture name="3" x="311" y="188" width="91" height="91"/>
+    <SubTexture name="4" x="2" y="125" width="91" height="91"/>
+    <SubTexture name="5" x="125" y="121" width="91" height="91"/>
+    <SubTexture name="6" x="218" y="102" width="91" height="91"/>
+    <SubTexture name="7" x="331" y="95" width="91" height="91"/>
+    <SubTexture name="8" x="331" y="2" width="91" height="91"/>
+    <SubTexture name="9" x="125" y="28" width="91" height="91"/>
+    <SubTexture name="avatar" x="2" y="2" width="121" height="121"/>
+    <SubTexture name="bg" x="458" y="2" width="14" height="8"/>
+    <SubTexture name="memo-header" x="125" y="2" width="104" height="24"/>
+    <SubTexture name="min-off" x="231" y="2" width="98" height="98"/>
+    <SubTexture name="monstar32" x="424" y="2" width="32" height="32"/>
+</TextureAtlas>
